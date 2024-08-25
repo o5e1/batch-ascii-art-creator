@@ -50,5 +50,13 @@ This script allows you to select a folder from the current directory and then ty
 - Windows operating system
 - Command Line (cmd.exe) or a similar command processor
 
+## Fonts
+**Fonts are easy to make, heres a step tutorial on how to add your own custom font.**
+- Make a new folder in the same directory as ascii.bat.
+- Add all your letters a-z through a text document (you dont have to add all.)
+- Edit the text document to make it say whatever you want
+
+- You can use ascii art generators online to find your own fonts to use. Make sure the text document has absolutely NO blank lines.
+
 
 
