@@ -1,4 +1,4 @@
-# Folder File Reader Script
+# Ascii art generator
 
 ## Description
 
