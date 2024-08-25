@@ -17,6 +17,7 @@ This script allows you to select a folder from the current directory and then ty
    - Ensure that the script is placed in the directory containing the folders you want to work with.
 
 2. **Run the Script:**
+ 
    A.
 
    -Open ascii.bat
@@ -25,7 +26,7 @@ This script allows you to select a folder from the current directory and then ty
 
    - Open Command Prompt.
    - Navigate to the directory containing the script.
-   - Run the script by typing `folder_file_reader.bat` and pressing Enter.
+   - Run the script by typing `ascii` and pressing Enter.
 
 4. **Select a Folder:**
    - The script will list available folders. Type the number corresponding to the desired folder and press Enter.
